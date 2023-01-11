@@ -10,9 +10,7 @@ output:
 
 # Introduction
 
-Hi.
-
-Bye.
+This lab manual was inspired by [this one](https://github.com/bablab/lab_manual) by the BABlab.
 
 # Expectations and Responsibilities
 
