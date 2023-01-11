@@ -1,6 +1,5 @@
 ---
 title: "Cofresi Addiction Neuroscience Lab Manual"
-author: "Roberto Cofresi"
 site: bookdown::bookdown_site
 documentclass: book
 output:
@@ -8,7 +7,24 @@ output:
   #bookdown::pdf_book: default
 ---
 
-# Introduction
+# CofresiLab 
+
+My name is Dr. Roberto Cofresi (Roberto), and if you are here. you are either considering joining my lab, or you have just joined it. Welcome! I am hoping that this will be a great research experience, that you’ll learn a lot about psychology and neuroscience, develop new skills (coding, data collection, data analysis, writing, giving talks), make new friends, and have a great deal of fun throughout the whole process.
+
+## Lab manual
+
+A lot of time and thought was put into the creation of this document. Therefore, **I expect all lab members to read this manual and to refer back to it regularly.**
+
+If you just joined the lab, please read this manual carefully and ask for clarification if need be. In fact, this is your very first lab duty! I understand that, despite my efforts to be concise and to-the-point, this document is rather long, but if you are finding yourself unable to read through this documentation, perhaps my lab is not the best fit for you. You’re also highly encouraged to read this manual while deciding if you want to join the lab in the first place. Experienced lab members are also encouraged to read through this once in a while to refresh their memory.
+
+The purpose of the lab manual is to centralize the information about my lab and set clear expectations. My hope is that this manual will help
+
+
+
+You are expected to refer to this manual first if you have questions, and if something is not addressed in this manual or is still not clear, then ask me. 
+
+
+
 
 This lab manual was inspired by [this one](https://github.com/bablab/lab_manual) by the BABlab.
 
