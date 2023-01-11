@@ -1,1 +1,10 @@
-hello-world
+introduction
+expectations-and-responsibilities
+everyone
+principal-investigator
+post-docs
+graduate-students
+lab-managers
+enrolled-research-interns
+research-assistants
+senior-research-assistants
